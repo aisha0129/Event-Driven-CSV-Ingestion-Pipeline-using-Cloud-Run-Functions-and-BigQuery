@@ -1,0 +1,5 @@
+equip_id,inspection_dt,inspector,loc,insp_status,comments
+TRF-001,2025-01-15 08:30:00,J. Rivera,Manhattan North,Pass,No issues found
+TRF-002,2025-01-15 09:45:00,M. Chen,Brooklyn South,Fail,Oil leak detected
+TRF-003,,,,,
+TRF-004,2025-01-16 14:00:00,J. Rivera,Queens East,Pass,Routine check complete
